@@ -1,0 +1,3 @@
+terminal-git init
+git config user.name rlaxofla
+git config user.email 20172213@g.kit.ac.kr

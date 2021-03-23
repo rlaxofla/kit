@@ -1,0 +1,15 @@
+cmd
+
+python
+
+quit()
+
+cd ~(경로)
+
+python -m venv env(env파일 생성)
+
+env\Scripts\activate.bat
+
+deactivate
+
+code
